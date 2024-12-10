@@ -10,7 +10,7 @@ function AboutMe() {
       </div>
       <h2>About Me</h2>
       <p>
-        Hello! I'm a passionate developer with expertise in React and modern web technologies. I enjoy creating visually appealing and user-friendly web applications.
+        Hello! I am Samuel B. Balagtas and i am a passionate developer with expertise in React and modern web technologies. I enjoy creating visually appealing and user-friendly web applications.
       </p>
     </section>
   );

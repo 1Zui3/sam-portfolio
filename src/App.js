@@ -19,18 +19,10 @@ function App() {
         <ResumeDownload />
       </section>
 
-      {/* Contact Me Section */}
+      {/* New Contact Me Section */}
       <section id="contact" className="contact">
-        <h2>Contact me</h2>
+        <h2>Contact Me</h2>
         <div className="contact-links">
-          <a
-            href="https://www.facebook.com/sam.101301/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="contact-link"
-          >
-            Facebook
-          </a>
           <a
             href="https://www.linkedin.com/in/samuel-balagtas-4092b8243/"
             target="_blank"
@@ -39,8 +31,10 @@ function App() {
           >
             LinkedIn
           </a>
+          <span className="contact-email">
+            | balagtassamuel1@gmail.com
+          </span>
         </div>
-        <p className="email">Gmail: balagtassamuel1@gmail.com</p>
       </section>
     </div>
   );
