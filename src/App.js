@@ -21,12 +21,8 @@ function App() {
 
       {/* New Contact Me Section */}
       <section id="contact" className="contact">
-<<<<<<< HEAD
         <h2>Contact Me</h2>
         <div className="contact-links">
-=======
-        <h2>Contact me</h2>
->>>>>>> 6ec175e343671269e5162a52ff1d870e9848d7ee
           <a
             href="https://www.linkedin.com/in/samuel-balagtas-4092b8243/"
             target="_blank"

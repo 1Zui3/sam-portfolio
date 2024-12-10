@@ -15,7 +15,7 @@ function Header() {
   return (
     <header className="header">
       <div className="header-container">
-        <h1 className="logo">My Portfolio</h1>
+        <h1 className="logo">Portfolio</h1>
         <div className="hamburger" onClick={toggleMenu}>
           <span className="bar"></span>
           <span className="bar"></span>
