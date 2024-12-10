@@ -1,0 +1,37 @@
+/* App.css or Contact.css */
+.contact {
+  padding: 40px 20px;
+  background-color: #f7f7f7;
+  text-align: center;
+  font-family: 'Arial', sans-serif; /* Keep the basic layout but apply a nice font */
+}
+
+.contact h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  font-family: 'Roboto', sans-serif; /* Apply a specific font for headings */
+}
+
+.contact-links {
+  margin-bottom: 20px;
+}
+
+.contact-link {
+  display: inline-block;
+  margin: 0 15px;
+  font-size: 18px;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact-link:hover {
+  color: #0073b1; /* LinkedIn blue */
+}
+
+.email {
+  font-size: 18px;
+  color: #333;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif; /* Apply the same heading font to the email */
+}

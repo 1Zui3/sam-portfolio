@@ -1,0 +1,20 @@
+.resume-download {
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  .download-button {
+    padding: 10px 20px;
+    background-color: #78a8d1;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .download-button:hover {
+    background-color: #3dbae4;
+  }
+  

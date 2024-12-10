@@ -1,0 +1,53 @@
+/* Skills Section */
+.skills {
+  padding: 40px 20px;
+  background-color: #707070;
+}
+
+.skills h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.skills-section {
+  margin-bottom: 40px;
+  max-width: 800px; /* Max width to prevent full width usage */
+  margin-left: auto;
+  margin-right: auto; /* Center align the content */
+}
+
+.skills-section h3 {
+  font-size: 28px;
+  margin-bottom: 10px;
+  text-align: left;
+  color: #333;
+}
+
+.skills-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px; /* Reduced gap for a more compact layout */
+}
+
+.skill {
+  background-color: #969696;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+  width: 100%;
+  max-width: 700px; /* Limit max width for better readability */
+}
+
+.skill-name {
+  font-size: 22px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.skill-description {
+  font-size: 14px; /* Reduced font size for a more compact look */
+  color: #666;
+  line-height: 1.6;
+}

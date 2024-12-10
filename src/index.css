@@ -1,0 +1,24 @@
+/* index.css */
+
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #333333;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+a {
+  font-weight: 500;
+  text-decoration: none;
+  color: inherit;
+}
+
+p {
+  font-weight: 400;
+}
